@@ -1,0 +1,16 @@
+{
+    "firstName": "Deepu",
+    "lastName": "kalagati",
+    "address": [
+        {
+            "street":"abc",
+            "city":"Hyderabad",
+            "state":"Telangana"
+        },
+        {
+            "street":"abc",
+            "city":"Chennai",
+            "state":"TamilNadu"
+        }
+    ]
+}
